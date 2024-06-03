@@ -1,7 +1,7 @@
 *CHANGE REQUEST*
 The HTTP app provides modules for communication based on the [Hypertext Transfer Protocol (HTTP)](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol). HTTP is the fundamental component of data transfer for the World Wide Web. As the backbone of information exchange between web servers and clients, HTTP allows you to download web pages, access files, make API calls, and trigger webhooks.
 
-Overview of the HTTP modules
+Overview of the HTTP modules ADDITIONAL INFO
 ----------------------------
 
 Select a module of the HTTP app based on the authentication requirements of the resource you want to use. To use modules that require authentication, you have to create a connection first.
